@@ -7,7 +7,11 @@
 <title>Insert title here</title>
 </head>
 <body>
+<<<<<<< HEAD
 dddddddd
 zzzzzz
+=======
+dddddddd baek ji young
+>>>>>>> branch 'master' of https://github.com/baekjiyoung/bjy2.git
 </body>
 </html>
